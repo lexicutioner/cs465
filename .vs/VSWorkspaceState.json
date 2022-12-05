@@ -6,11 +6,12 @@
     "\\app_api\\database\\models",
     "\\app_server",
     "\\app_server\\controllers",
+    "\\app_server\\routes",
     "\\app_server\\views",
-    "\\app_server\\views\\layouts",
-    "\\app_server\\views\\partials",
-    "\\bin"
+    "\\public",
+    "\\public\\css",
+    "\\public\\images"
   ],
-  "SelectedNode": "\\app_server\\views\\travel.hbs",
+  "SelectedNode": "\\app_admin\\src\\app\\edit-trip\\edit-trip.component.ts",
   "PreviewInSolutionExplorer": false
 }
