@@ -1,17 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\app_api",
-    "\\app_api\\database",
-    "\\app_api\\database\\models",
-    "\\app_server",
-    "\\app_server\\controllers",
-    "\\app_server\\routes",
-    "\\app_server\\views",
-    "\\public",
-    "\\public\\css",
-    "\\public\\images"
+    ""
   ],
-  "SelectedNode": "\\app_admin\\src\\app\\edit-trip\\edit-trip.component.ts",
   "PreviewInSolutionExplorer": false
 }
