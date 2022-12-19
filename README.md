@@ -1,4 +1,5 @@
 Architecture
+
 -Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, 
 and the single-page application (SPA).
 We used express for the customer facing side so that the pages would load quicker for the customer, but for the admin side we used 
@@ -9,6 +10,7 @@ The mongoDB database made it easier for the information to get stored. The more 
 be to handle that load of information. We also didn't have to load and reload the database each time.
 
 Functionality
+
 -How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces? 
 JSON is a bit easier for users to read and it still makes sense to the computer as well. In an array format in javascript, 
 it would be a lot more confusing. It ties together the front end and back end because it works with javascript in order to 
@@ -22,6 +24,7 @@ authentication service tot he admin side to make sure that the person using it w
 access and add/delete data.
 
 Reflection
+
 -How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this 
 course to help you become a more marketable candidate in your career field?
 This course was the first time that I worked with anything related to http, so I feel like I've learned a lot of the basics that 
